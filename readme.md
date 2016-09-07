@@ -80,5 +80,4 @@ The packages used are the following...
 
 
 ### License
-##
-tets Flarepoint is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Flarepoint is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
